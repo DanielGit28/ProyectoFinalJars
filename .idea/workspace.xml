@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PFinalConJFX:jar2" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c30125e-4d08-43c3-a400-879b2cf0b30e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PFinalConJFX_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PFinalConJFX_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_admin.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_album.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_artista.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_biblioteca_album.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_biblioteca_lista_reproduccion.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_cancion.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_compositor.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_genero.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_lista_reproduccion_usuario.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_routines.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseDatos/bdbaulrecuerdos_usuario_final.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/PropertiesHandler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/AdminDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/AlbumDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/ArtistaDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/CancionDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/CompositorDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/GeneroDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/ListaReproduccionDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/UsuarioFinalDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/class-use/AdminDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/class-use/AlbumDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/class-use/ArtistaDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/class-use/CancionDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/class-use/CompositorDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/class-use/GeneroDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/class-use/ListaReproduccionDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/class-use/UsuarioFinalDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/dao/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/Admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/Album.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/Artista.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/Cancion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/CancionCompra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/Compositor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/Genero.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/ListaPaises.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/ListaReproduccion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/Pais.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/Usuario.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/UsuarioFinal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/Admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/Album.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/Artista.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/Cancion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/CancionCompra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/Compositor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/Genero.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/ListaPaises.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/ListaReproduccion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/Pais.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/Usuario.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/class-use/UsuarioFinal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/entidades/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/logica/Gestor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/logica/class-use/Gestor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/logica/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/logica/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/logica/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/bl/logica/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/class-use/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/class-use/PropertiesHandler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlInicio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlMenuAdmin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlMenuUsuario.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlRegistroAdmin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/class-use/CtrlInicio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/class-use/CtrlLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/class-use/CtrlMenuAdmin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/class-use/CtrlMenuUsuario.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/class-use/CtrlRegistroAdmin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/controladoresfx/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/cr/ac/ucenfotec/proyectofinal/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/overview-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/PruebaFX/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/PropertiesHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/dao/AdminDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/dao/AlbumDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/dao/ArtistaDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/dao/CancionDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/dao/CompositorDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/dao/GeneroDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/dao/ListaReproduccionDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/dao/MetodoPagoDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/dao/UsuarioFinalDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/Artista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/Cancion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/Compositor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/Genero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/ListaReproduccion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/MetodoPago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/Pais.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/UsuarioFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/entidades/UsuarioHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/bl/logica/Gestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlInicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlRegistroAdmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlRegistroUsuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminAlbumes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminArtistas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminCanciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminCompositores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminGeneros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAgregarCanciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAgregarCancionesAlbum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlCrearAlbumes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlCrearArtistas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlCrearCompositores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlCrearGeneros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlMenuAdmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlAlbumes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlCanciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlComprarCancion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlCrearListaReproduccion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlListasReproduccion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlMenuUsuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlMetodosPago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlPagarCancion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlSubirCancion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/estilos/estiloLogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/estilos/estiloMenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/estilos/estiloUsuario.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/imagenes/FondoNaranja.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/inicio.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/login.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/registroAdmin.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/registroUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/agregarCanciones.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/agregarCancionesAlbum.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/crearAlbumes.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/crearArtistas.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/crearCompositores.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/crearGeneros.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/medio.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdmin.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminAlbumes.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminArtistas.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminCanciones.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminCompositores.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminGeneros.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/albumesUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/cancionesUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/comprarCancion.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/crearListaReproduccion.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/listasReproduccionUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/menuUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/metodosPago.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/pagarCancion.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFinalConJFX/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/subirCancion.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaFX/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/PropertiesHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/logica/PropertiesHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/logica/Gestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/logica/Gestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlInicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/CtrlInicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/CtrlLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlRegistroAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/CtrlRegistroAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/CtrlRegistroUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/CtrlRegistroUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminAlbumes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlAdminAlbumes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminArtistas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlAdminArtistas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminCanciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlAdminCanciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminCompositores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlAdminCompositores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAdminGeneros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlAdminGeneros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAgregarCanciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlAgregarCanciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlAgregarCancionesAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlAgregarCancionesAlbum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlCrearAlbumes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlCrearAlbumes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlCrearArtistas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlCrearArtistas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlCrearCompositores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlCrearCompositores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlCrearGeneros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlCrearGeneros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_admin/CtrlMenuAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_admin/CtrlMenuAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlAlbumes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_usuario/CtrlAlbumes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlCanciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_usuario/CtrlCanciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlComprarCancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_usuario/CtrlComprarCancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlCrearListaReproduccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_usuario/CtrlCrearListaReproduccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlListasReproduccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_usuario/CtrlListasReproduccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlMenuUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_usuario/CtrlMenuUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlMetodosPago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_usuario/CtrlMetodosPago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlPagarCancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_usuario/CtrlPagarCancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/controladoresfx/controladores_usuario/CtrlSubirCancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl/controladoresfx/controladores_usuario/CtrlSubirCancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/estilos/estiloLogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/estilos/estiloMenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/estilos/estiloUsuario.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/imagenes/FondoNaranja.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/inicio.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/login.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/registroAdmin.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/registroUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/agregarCanciones.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/agregarCancionesAlbum.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/crearAlbumes.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/crearArtistas.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/crearCompositores.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/crearGeneros.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/medio.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdmin.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminAlbumes.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminArtistas.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminCanciones.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminCompositores.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_admin/menuAdminGeneros.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/albumesUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/cancionesUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/comprarCancion.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/crearListaReproduccion.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/listasReproduccionUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/menuUsuario.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/metodosPago.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/pagarCancion.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/vistas/vistas_usuario/subirCancion.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/DanielGit28/PFinalConJFX" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kJ6O1zXGViKBpw6dcNY0cWWAK8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cr/ac/ucenfotec/proyectofinal/bl" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Documents\Programacion Orientada a Objetos\ProyectoFinalPOO\PFinalCon JFX\PFinalConJFX\src\cr\ac\ucenfotec\proyectofinal\vistas\vistas_usuario" />
+      <recent name="C:\Users\Daniel\Documents\Programacion Orientada a Objetos\ProyectoFinalPOO\PFinalCon JFX\PFinalConJFX\src\cr\ac\ucenfotec\proyectofinal\vistas\vistas_admin" />
+      <recent name="C:\Users\Daniel\Documents\Programacion Orientada a Objetos\ProyectoFinalPOO\PFinalCon JFX\PFinalConJFX" />
+      <recent name="C:\Users\Daniel\Documents\Programacion Orientada a Objetos\ProyectoFinalPOO\PFinalCon JFX\PFinalConJFX\src\cr\ac\ucenfotec\proyectofinal\estilos" />
+      <recent name="C:\Users\Daniel\Documents\Programacion Orientada a Objetos\ProyectoFinalPOO\PFinalCon JFX\PFinalConJFX\src\cr\ac\ucenfotec\proyectofinal" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Documents\UCenfotec\Programacion Orientada a Objetos\ProyectoFinalPOOJars\ProyectoFinalPOOJars\PFinalConJFX\src\cr\ac\ucenfotec\proyectofinal\bl" />
+      <recent name="C:\Users\Daniel\Documents\UCenfotec\Programacion Orientada a Objetos\ProyectoFinalPOO\PFinalCon JFX\PFinalConJFX\src\cr\ac\ucenfotec\proyectofinal\vistas\vistas_usuario" />
+      <recent name="C:\Users\Daniel\Documents\UCenfotec\Programacion Orientada a Objetos\ProyectoFinalPOO\PFinalCon JFX\PFinalConJFX\src\cr\ac\ucenfotec\proyectofinal\vistas\vistas_admin" />
+      <recent name="C:\Users\Daniel\Documents\Programacion Orientada a Objetos\ProyectoFinalPOO\PFinalCon JFX\PFinalConJFX\src\cr\ac\ucenfotec\proyectofinal\vistas\vistas_admin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cr.ac.ucenfotec.proyectofinal.bl.logica" />
+      <recent name="cr.ac.ucenfotec.proyectofinal.controladoresfx.controladores_usuario" />
+      <recent name="cr.ac.ucenfotec.proyectofinal.controladoresfx.controladres_admin" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cr.ac.ucenfotec.proyectofinal.bl.entidades" />
+      <recent name="cr.ac.ucenfotec.proyectofinal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cr.ac.ucenfotec.proyectofinal.Main" />
+      <module name="PFinalConJFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cr.ac.ucenfotec.proyectofinal.controladoresfx.controladores_admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c30125e-4d08-43c3-a400-879b2cf0b30e" name="Default Changelist" comment="" />
+      <created>1605406311274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605406311274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="350" y="45" key="#Project_Structure" timestamp="1608518026693">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="350" y="45" key="#Project_Structure/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608518026693" />
+    <state x="78" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1608386692803">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="78" y="166" key="#com.intellij.ide.util.MemberChooser/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608386692803" />
+    <state x="817" y="206" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607887613670">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="817" y="206" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1607887613670" />
+    <state x="19" y="202" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1608505681434">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="19" y="202" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608505681434" />
+    <state x="894" y="216" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608517362174">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="894" y="216" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608517362174" />
+    <state x="947" y="191" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608513576359">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="947" y="191" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608513576359" />
+    <state x="672" y="237" key="FileChooserDialogImpl" timestamp="1608517965093">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="672" y="237" key="FileChooserDialogImpl/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608517965093" />
+    <state x="742" y="262" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605412497560" />
+    <state width="1269" height="214" key="GridCell.Tab.0.bottom" timestamp="1608515231447">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1269" height="214" key="GridCell.Tab.0.bottom/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608515231447" />
+    <state width="1867" height="279" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605416178404" />
+    <state width="1269" height="214" key="GridCell.Tab.0.center" timestamp="1608515231447">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1269" height="214" key="GridCell.Tab.0.center/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608515231447" />
+    <state width="1867" height="279" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605416178403" />
+    <state width="1269" height="214" key="GridCell.Tab.0.left" timestamp="1608515231447">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1269" height="214" key="GridCell.Tab.0.left/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608515231447" />
+    <state width="1867" height="279" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605416178403" />
+    <state width="1269" height="214" key="GridCell.Tab.0.right" timestamp="1608515231447">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1269" height="214" key="GridCell.Tab.0.right/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608515231447" />
+    <state width="1867" height="279" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605416178403" />
+    <state x="637" y="172" key="RollbackChangesDialog" timestamp="1608482714594">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="637" y="172" key="RollbackChangesDialog/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608482714594" />
+    <state x="419" y="89" key="SettingsEditor" timestamp="1608082928483">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="419" y="89" key="SettingsEditor/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608082928483" />
+    <state x="463" y="166" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605412502189" />
+    <state x="790" y="204" key="Vcs.Push.Dialog.v2" timestamp="1608507855970">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="790" y="204" key="Vcs.Push.Dialog.v2/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608507855970" />
+    <state x="989" y="387" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607815754666">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="989" y="387" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1607815754666" />
+    <state x="-1299" y="0" width="1104" height="937" key="dock-window-1" timestamp="1608516763815">
+      <screen x="-1920" y="0" width="1739" height="939" />
+    </state>
+    <state x="-1299" y="0" width="1104" height="937" key="dock-window-1/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608516763815" />
+    <state x="779" y="217" key="refactoring.ChangeSignatureDialog" timestamp="1608342232376">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="779" y="217" key="refactoring.ChangeSignatureDialog/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608342232376" />
+    <state x="1" y="216" key="run.anything.popup" timestamp="1608442537608">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="1" y="216" key="run.anything.popup/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1608442537608" />
+    <state x="566" y="208" width="672" height="613" key="search.everywhere.popup" timestamp="1607905802910">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="566" y="208" width="672" height="613" key="search.everywhere.popup/-1920.0.1739.939/0.0.1739.939@0.0.1739.939" timestamp="1607905802910" />
+    <state x="625" y="230" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605412383501" />
+  </component>
+</project>
